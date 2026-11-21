@@ -1,0 +1,6 @@
+David Kim
+Email: david@example.com
+Experience: Machine Learning Engineer with 5 years experience.
+Skills: Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn,
+NLP, AWS, Docker, Kubernetes, SQL.
+Education: M.S. Artificial Intelligence.
