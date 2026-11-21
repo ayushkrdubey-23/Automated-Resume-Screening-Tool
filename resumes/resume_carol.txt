@@ -1,0 +1,5 @@
+Carol Lee
+Email: carol@example.com
+Experience: Frontend Developer with 2 years experience.
+Skills: JavaScript, React, HTML, CSS, Git, Node.js, Express.
+Education: B.Tech Information Technology.
