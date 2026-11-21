@@ -1,0 +1,5 @@
+Bob Smith
+Email: bob@example.com
+Experience: Data Analyst with 3 years experience.
+Skills: Python, Pandas, NumPy, SQL, Tableau, Excel, Statistics, Data Analysis.
+Education: B.Sc Data Science.
