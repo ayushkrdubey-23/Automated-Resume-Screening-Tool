@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local outputs (optional - uncomment to track reports)
+# outputs/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
